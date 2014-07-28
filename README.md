@@ -1,4 +1,4 @@
 NewRepositoryTest2
 ==================
 
-just for learning
+just for learning to use GITHUB
